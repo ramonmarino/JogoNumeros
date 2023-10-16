@@ -13,9 +13,10 @@ basta ir na area de extensões do visual studio na barra de pesquisa escrever Op
 para clonar,baixar ou em formato zip) basta clicar com o botão direito do mouse e ir na opção Open in Default Browser e já irá abrir.
 
 
-![Captura de Tela (531)](https://github.com/ramonmarino/JogoNumeros/assets/122156750/e45e8c1e-8a2c-4bfe-9542-9b9b2abea814)
 
+
+![Captura de Tela (531)](https://github.com/ramonmarino/JogoNumeros/assets/122156750/c0fb09ef-10cf-4d2c-9000-f5b7d3f984d0)
 
 LICENÇA:
 
-A licença usada é MIT 
+A licença usada é MIT, fica a disposição para ser alterado, copiado, modificado se necessário.  
